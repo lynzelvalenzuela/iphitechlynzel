@@ -1,0 +1,9 @@
+<<<<<<<<< Temporary merge branch 1
+this is a sample text in note 1
+
+hello,  I'am Lynzel Valenzuela!
+=========
+Name: Lynzel N. Valenzuela
+Email: iphitech.valenzuela.lynzel@gmail.com
+Birthday: August 1, 1999
+>>>>>>>>> Temporary merge branch 2
